@@ -1,0 +1,2 @@
+# online-tv-argentina 
+This project is a basic web page that displays two embedded YouTube videos. The page has a heading with the title "Mirar Canales de Argentina Online" and a main section that contains the videos. The videos are displayed in a two-column layout using <iframe> tags. The background of the page is light gray and the text is in the Arial font. In summary, the page allows users to watch Argentine channels online through the embedded videos.
